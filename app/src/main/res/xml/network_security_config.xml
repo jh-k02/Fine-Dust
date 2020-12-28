@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network_securitu-config>
+    <domain-config cleartextTrafficPermitted = "false">
+        <domain includeSubdomains = "ture" > secure.example.com</domain>
+    </domain-config>
+</network_securitu-config>
